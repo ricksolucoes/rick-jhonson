@@ -1,5 +1,7 @@
 # rick-jhonson
 Middleware for parse JSON in HORSE
+
+Está e uma adaptação de https://github.com/HashLoad/jhonson, versão 1.1.1 adicionado a possibilidade de utilizar o Patch nas requisições.
 ```
 uses Horse, Horse.Rick.Jhonson, System.JSON;
 
